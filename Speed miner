@@ -1,0 +1,5 @@
+c -M '' genesis.json | shasum -a 256
+9dbff5a0fb1a7aa20247f73e974bfd4a11090252768869ef8ccb23a515a01c51  -
+#Minig BROW
+git checkout v0.14.1
+make installgit checkout v0.14.1
