@@ -1,5 +1,5 @@
 {
-  "name": "coda-network",
+  "name":  "coda-network",
   "namespace": true,
   "sources": ["src"],
   "package-specs": {
